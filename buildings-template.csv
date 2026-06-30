@@ -1,0 +1,7 @@
+name, type, use, floors, area, year
+Main Production Block, Building, Production, 4 Storey, 52000, 2021
+Finishing Shed, Shed, Production, Ground only, 31000, 2022
+Warehouse, Shed, Support, Ground only, 14000, 2020
+Boiler House, Building, Support, Ground only, 2600, 2019
+Sub-station / Transformer, Building, Support, Ground only, 600, 2019
+Effluent Treatment Plant, Building, Support, Ground only, 4500, 2020
